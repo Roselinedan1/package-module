@@ -1,10 +1,8 @@
-;; latticechain-core
+;; module-project
 ;; 
-;; A comprehensive project management smart contract for the Stacks blockchain
-;; that enables teams to create, track, and complete projects with
-;; unprecedented transparency and accountability. This contract manages
-;; projects, tasks, team members, work logs, and deliverables while maintaining
-;; an immutable audit trail of all activities.
+;; A modular smart contract for tracking project lifecycles, tasks, and team interactions
+;; on the Stacks blockchain. Provides a robust framework for decentralized project management
+;; with granular permissions, transparent workflows, and immutable record-keeping.
 
 ;; Error constants
 (define-constant err-not-authorized (err u100))

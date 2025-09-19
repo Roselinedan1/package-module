@@ -1,6 +1,6 @@
-# LatticeChain Project Management
+# Package Module
 
-A decentralized project management solution built on the Stacks blockchain that enables transparent and accountable team collaboration.
+A modular and transparent project tracking system built on the Stacks blockchain, providing flexible and secure collaboration tools for teams and organizations.
 
 ## Overview
 
@@ -32,7 +32,7 @@ graph TD
 
 ## Contract Documentation
 
-### Core Contract (latticechain-core.clar)
+### Core Contract (module-project.clar)
 
 The main contract that handles all project management functionality.
 

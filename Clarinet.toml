@@ -1,11 +1,11 @@
 [project]
-name = "latticechain-project-management"
+name = "package-module"
 authors = []
 description = ""
 telemetry = false
 requirements = []
-[contracts.latticechain-core]
-path = "contracts/latticechain-core.clar"
+[contracts.module-project]
+path = "contracts/module-project.clar"
 depends_on = []
 
 [repl]
